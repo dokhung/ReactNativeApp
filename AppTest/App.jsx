@@ -4,7 +4,7 @@ const App = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>Hello React</Text>
+        <Text>안녕하세요 함수 컴포넌트!</Text>
       </View>
     </SafeAreaView>
   );
